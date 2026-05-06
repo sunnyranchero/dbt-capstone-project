@@ -20,7 +20,7 @@ It's gonna be quick and painless, I promise :)
 
 # How to get started
 1. Go to the capstone project template repository: https://github.com/nordquant/dbt-capstone-project
-2. Click **"Use this template"** to create your own copy
+2. Click **"Use this template"** to create your own copy **(note, this option does not exist, instead use the "fork" option)**
 3. Follow the step-by-step instructions in the repository's `README.md`
 
 The assignment is fully self-contained — everything you need is in the README, including setup instructions, exercises, and verification steps.
